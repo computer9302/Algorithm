@@ -1,4 +1,4 @@
-package org.SelectionSort;
+package org._03_SelectionSort;
 
 public class Selection_Sort {
 

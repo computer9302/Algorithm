@@ -1,6 +1,6 @@
 package org._04_InsertionSort;
 
-public class InsertionSort {
+public class Insertion_Sort {
 
     public static void insertion_sort(int[] a){
         insertion_sort(a, a.length);
